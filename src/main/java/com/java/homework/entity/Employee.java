@@ -1,6 +1,6 @@
 package com.java.homework.entity;
 
-import com.java.homework.id.UuidVersion7Generator;
+import com.java.homework.entity.id.UuidVersion7Generator;
 import jakarta.persistence.*;
 import lombok.Data;
 import org.hibernate.annotations.GenericGenerator;

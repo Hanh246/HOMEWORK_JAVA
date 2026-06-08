@@ -1,4 +1,4 @@
-package com.java.homework.id;
+package com.java.homework.entity.id;
 
 import com.fasterxml.uuid.Generators;
 import org.hibernate.engine.spi.SharedSessionContractImplementor;
